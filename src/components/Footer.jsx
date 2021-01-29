@@ -1,16 +1,14 @@
 /*eslint-disable*/
-import React from 'react';
+import React from "react";
 
-function Footer () {
+function Footer() {
+  const date = new Date().getFullYear();
 
-    const date = new Date().getFullYear();
-
-    return (
+  return (
     <footer>
-        <p> © Milton Rodrigues - {date} </p>
-    </footer>    
-    )
-};
-
+      <p> © Milton Rodrigues - {date} </p>
+    </footer>
+  );
+}
 
 export default Footer;
