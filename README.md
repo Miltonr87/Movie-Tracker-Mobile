@@ -4,7 +4,7 @@
 
 ### About
 
-Made with React and Mobile First techniques, yhe Web APP consumes an API provided by MovieDB. All movies are listed on the line below the search bar according to a search made in the MovieDB database. This application was used to learn how to manipulate the JSON data array provided by the API and convert it into a visual model with images, note and description. To build it I used the most modern tool in React documentation called Hooks API. 
+Made with React and Mobile First techniques, yhe Web APP consumes an API provided by [MovieDB](https://www.themoviedb.org/). All movies are listed on the line below the search bar according to a search made in the MovieDB database. This application was used to learn how to manipulate the JSON data array provided by the API and convert it into a visual model with images, note and description. To build it I used the most modern tool in React documentation called Hooks API. 
 
 ### Getting Started
 
